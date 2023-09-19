@@ -9,16 +9,8 @@
 
 - 🔭 I’m currently working on [RealmLabs](https://github.com/Realm9758/RealmLabs)
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 👨‍💻 All of my projects are available at [https://realmlabs-website.pages.dev/](https://realmlabs-website.pages.dev/)
-
-- 📝 I regularly write articles on [https://realmlabs-website.pages.dev/](https://realmlabs-website.pages.dev/)
-
 - 📫 How to reach me **henningraffi50@gmail.com**
-
-- 📄 Know about my experiences [https://realmlabs-website.pages.dev/](https://realmlabs-website.pages.dev/)
-
+- 
 - ⚡ Fun fact **I love programming**
 
 <h3 align="left">Connect with me:</h3>
